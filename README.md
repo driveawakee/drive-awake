@@ -56,8 +56,6 @@ Where p1-p6 are eye landmark coordinates.
 ---
 
 ## 🚀 Demo
-`*[Add demo video or GIF here showing the system in action]*
-***`
 **Key Metrics:**
 - ✅ 92%+ accuracy in controlled tests
 - ⚡ Real-time processing at 30+ FPS
